@@ -1,4 +1,4 @@
-class Solution {
+class InsertSort {
 public:
 	void insertionSortArray(int a[], int n) {    //数组形式
 		for (int i = 1;i < n;i++) {
