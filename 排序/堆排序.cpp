@@ -34,6 +34,7 @@ void heap_sort(int array[], int n) {
 	}
 }
 
+//测试
 int main() {
 	srand(time(NULL));
 	for (int t = 1;t <= 100000;t++) {
